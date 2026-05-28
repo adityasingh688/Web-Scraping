@@ -37,7 +37,7 @@ frontend/
     main.jsx
     styles.css
   package.json
-DEMO_VIDEO_SCRIPT.md
+
 ```
 
 ## Database Setup
