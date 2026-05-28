@@ -179,14 +179,7 @@ Because many sites such as Google Maps, Justdial, and Sulekha may restrict autom
 - GitHub repository with separate `frontend` and `backend` folders
 - CSV dataset: `data/business_listings_sample.csv`
 - Code/scripts: backend APIs, React dashboard, and `backend/scripts/generate_sample_data.py`
-- Demo video of 3 to 5 minutes
 - Database dump file: `backend/database/business_listings_dump.sql`
 - README with setup instructions, tech stack, challenges, and scraping approach
 
-## Demo Video Checklist
 
-- Show the generated 600-listing dataset.
-- Open MySQL and show `listing_master`.
-- Run FastAPI and open `/docs`.
-- Test the dashboard APIs.
-- Run React dashboard and show city, category, and source charts.
